@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="jogo.States.State" project="Space Mining" 
+    file="/Space Mining/src/jogo/States/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="145" x="606" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="jogo.entidades.Entidade" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Entidade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="148" x="52" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="jogo.entidades.Nave" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Nave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="440" y="1480"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="jogo.entidades.Cenario" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Cenario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="326" y="1702"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="jogo.entidades.Meteorito" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Meteorito.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="143" x="81" y="1228"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="jogo.States.GameState" project="Space Mining" 
+    file="/Space Mining/src/jogo/States/GameState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="291" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="jogo.tela.inicializador" project="Space Mining" 
+    file="/Space Mining/src/jogo/tela/inicializador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="416" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="jogo.tela.Janela" project="Space Mining" 
+    file="/Space Mining/src/jogo/tela/Janela.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="121" x="445" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="jogo.jogo.Handler" project="Space Mining" 
+    file="/Space Mining/src/jogo/jogo/Handler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="848" y="1374"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="jogo.jogo.KeyManager" project="Space Mining" 
+    file="/Space Mining/src/jogo/jogo/KeyManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="165" x="240" y="500"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="jogo.entidades.Item" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="143" x="41" y="873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="jogo.entidades.Criatura" project="Space Mining" 
+    file="/Space Mining/src/jogo/entidades/Criatura.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="493" y="1085"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="jogo.States.Menu" project="Space Mining" 
+    file="/Space Mining/src/jogo/States/Menu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="143" x="597" y="873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="jogo.graficos.ImageLoader" project="Space Mining" 
+    file="/Space Mining/src/jogo/graficos/ImageLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="103" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="jogo.jogo.Jogo" project="Space Mining" 
+    file="/Space Mining/src/jogo/jogo/Jogo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="174" x="633" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="jogo.graficos.Spritesheet" project="Space Mining" 
+    file="/Space Mining/src/jogo/graficos/Spritesheet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="183" x="81" y="1457"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="17">    
+    <bendpoint x="48" y="1614"/>    
+    <bendpoint x="50" y="1228"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="20">    
+    <bendpoint x="294" y="1228"/>    
+    <bendpoint x="294" y="1457"/>    
+    <bendpoint x="334" y="1580"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="21" name="cenario">        
+        <position height="0" width="0" x="-30" y="-114"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-30" y="-114"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="24">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="25" name="nave">        
+        <position height="0" width="0" x="-38" y="176"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-38" y="176"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="28" name="Meteoritos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="980" y="1202"/>    
+    <bendpoint x="812" y="873"/>    
+    <bendpoint x="812" y="500"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="31" name="jogo">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="770" y="873"/>    
+    <bendpoint x="749" y="1074"/>    
+    <bendpoint x="599" y="1073"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="34" name="handler">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </attribute>      
+      <multiplicity id="35" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="573" y="443"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="37" name="janela">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <bendpoint x="404" y="396"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="40" name="keyManager">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="43">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="44" name="currentState">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="791" y="500"/>    
+    <bendpoint x="791" y="873"/>    
+    <bendpoint x="834" y="1223"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="47" name="handler">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </attribute>      
+      <multiplicity id="48" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="49">    
+    <bendpoint x="359" y="812"/>    
+    <bendpoint x="257" y="828"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="50">    
+    <bendpoint x="733" y="470"/>    
+    <bendpoint x="743" y="476"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="51" name="gameState">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="54" name="s">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <bendpoint x="628" y="464"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="57" name="menuState">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="60" name="handler">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="-186"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
